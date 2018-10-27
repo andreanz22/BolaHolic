@@ -62,7 +62,7 @@ class PrevMatchFragment : Fragment(),PrevMatchView {
         super.onViewCreated(view, savedInstanceState)
 
         progressBar = progresBar
-        tampungView = matchRecyclerView
+        tampungView = matchPrevRecyclerView
         tampungView.layoutManager=LinearLayoutManager(context)
         tampungView.adapter=PrevMatchAdapter(context,event){
             val intent=Intent(context,MatchDetailActivity::class.java)

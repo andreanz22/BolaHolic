@@ -45,6 +45,7 @@
                         android:layout_alignParentRight="true"
                         android:background="@null"
                         android:src="@drawable/ic_action_bell"
+                        android:visibility="gone"
                         />
                 </RelativeLayout>
 
