@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Bola Holic</string>
+    <string name="match">Matchs</string>
+    <string name="team">Teams</string>
+    <string name="favorite">Favorites</string>
+    <string name="match_prev">Last</string>
+    <string name="match_next">Next</string>
+    <string name="favorite_team">Teams</string>
+    <string name="favorite_match">Match</string>
+    <string name="team_overview">Overview</string>
+    <string name="team_player">Players</string>
+    <string name="player_weight">Weight (Kg)</string>
+    <string name="player_height">Height (m)</string>
+    <string name="hint_search">Search</string>
+
+    <array name="league">
+        <item>English Premier League</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+        <item>Spanish La Liga</item>
+    </array>
+
+    <string-array name="league_id">
+        <item>4328</item>
+        <item>4329</item>
+        <item>4332</item>
+        <item>4334</item>
+        <item>4335</item>
+    </string-array>
+</resources>

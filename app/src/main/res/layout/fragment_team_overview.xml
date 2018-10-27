@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="teamdetail.teamoverview.TeamOverviewFragment">
+
+    
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/colorPrimary"
+        android:textSize="16sp"
+        android:id="@+id/teamOverviews"
+        tools:text="asdasdas"
+        />
+
+</android.support.v4.widget.NestedScrollView>
